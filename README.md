@@ -1,1 +1,1 @@
-# django-tutorials
+# ecommerce web Django Vue JS
